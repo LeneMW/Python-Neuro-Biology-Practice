@@ -1,0 +1,28 @@
+This is following the: https://neuraldatascience.io/1-intro/why.html course.
+
+What is Data Science?
+
+Data science is very important for understanding, manipulating, and visualizing neuroscience data.
+Includes: statistics, machine learning, data cleaning, transformations, and visualizations. 
+
+Rather than looking for a specific predicted pattern, data science explores data to find patterns.
+For example, fMRI may be used to "decode" specific patterns of brain activity.
+
+Common tools of data science are Python, Matlab, and R.
+
+Data is information, and information is "a difference that makes a difference". Essentially, data is composed of meaningful differences. Meaning can be derived through visuals, statistical analysis, or predictions.
+
+In data science, the focus is more on what to do with the data after it is collected and it is very important to understand what your data are: what was measured? How was it measured? Why was it measured?
+
+Data cleaning must be done due to noise that arises in different types of data collected. For example with EEG signals. Cleaning your data is important even if it takes a long time because "garbage in = garbage out".
+
+
+Packages/libraries vs Programming languages
+
+Programming languages provide a set of powerful, but generic tools for performing tasks using a computer while a library is a collection of programs or tools written for that language for a more specific purpose.
+
+GUI vs. Programming
+
+GUI-based packages are initially simpler to use, however, this sacrifices the advantages of automation and reproducibility because it still requires manual workflow. However, they can be useful in teaching people about a data analysis process or trying to figure out a tool.
+
+
